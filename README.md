@@ -3,7 +3,7 @@
 This project is structured to work as a series of classes focused on bootstrapping your data-mining / web-crawling knowledge. 
 Some of the topics that are covered here:
 
- - Different types of Crawlers
+ - Anatomy of a Crawler
  - Tooling
  - Understanding HTTP Requests
  - Finding your public source of data
