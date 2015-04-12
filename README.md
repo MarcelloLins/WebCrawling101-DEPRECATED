@@ -3,14 +3,14 @@
 This project is structured to work as a series of classes focused on bootstrapping your data-mining / web-crawling knowledge. 
 Some of the topics that are covered here:
 
- - Anatomy of a Crawler
- - Tooling
+ - Anatomy of a Crawler (Policies and Behaviors)
  - Understanding HTTP Requests
- - Finding your public source of data
  - Scrapping / Parsing data out of HTML pages
+ - Tooling (Frameworks and custom-made libraries)
+ - Finding your public source of data
  - Modeling your objects
  - Storing your results
- - Scale up your crawler
+ - Scaling up your crawler
 
 Ideally, at the end of this "Course" you should be able to write your own Crawler / Scrapper in C#.
 
