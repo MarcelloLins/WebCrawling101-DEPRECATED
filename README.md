@@ -3,7 +3,7 @@
 This project is structured to work as a series of classes focused on bootstrapping your data-mining / web-crawling knowledge. 
 Some of the topics that are covered here:
 
- - Anatomy of a Crawler (Policies and Behaviors)
+ - [Anatomy of a Crawler (Policies and Behaviors)]
  - Understanding HTTP Requests
  - Scrapping / Parsing data out of HTML pages
  - Tooling (Frameworks and custom-made libraries)
@@ -29,3 +29,6 @@ http://about.me/marcellolins
 
 # Version
 0.0.5
+
+
+[Anatomy of a Crawler (Policies and Behaviors)]:https://github.com/MarcelloLins/WebCrawling101/wiki/Chapter-1-:-Anatomy-of-a-Crawler
