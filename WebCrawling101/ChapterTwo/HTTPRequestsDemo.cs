@@ -6,7 +6,7 @@
  *  
  * What this code does ?
  *  
- *  This chapter's code tried to illustrate the usage of simple HTTP GET requests issued to well-known websites
+ *  This chapter's code tried to illustrate the usage of simple HTTP GET and POST requests issued to well-known websites
  *  
  *  I hope that after reading the code, you feel confortable tweaking some requests to your need, and know how to inspect the responses and 
  *  status codes of each request you issue, looking for errors.
