@@ -4,7 +4,7 @@ This project is structured to work as a series of classes focused on bootstrappi
 Some of the topics that are covered here:
 
  - [Anatomy of a Crawler (Policies and Behaviors)]
- - Understanding HTTP Requests
+ - [Understanding HTTP Requests]
  - Scrapping / Parsing data out of HTML pages
  - Tooling (Frameworks and custom-made libraries)
  - Finding your public source of data
@@ -32,3 +32,5 @@ http://about.me/marcellolins
 
 
 [Anatomy of a Crawler (Policies and Behaviors)]:https://github.com/MarcelloLins/WebCrawling101/wiki/Chapter-1-:-Anatomy-of-a-Crawler
+
+[Understanding HTTP Requests]:https://github.com/MarcelloLins/WebCrawling101/wiki/Chapter-2-:-Understanding-HTTP-Requests
